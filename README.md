@@ -1,3 +1,3 @@
 # Hoe-gebruik-je-Azure
 
-dit document word binnekort gemaakt.
+dit document wordt binnekort gemaakt.
